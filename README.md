@@ -9,7 +9,7 @@ Do you enjoy streaming music? Do you also have a vinyl record collection? Have y
 
 ### Design
 
-![mock]starup_mock.jpg
+![mock](starup_mock.jpg)
 
 ### Key features
 
