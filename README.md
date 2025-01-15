@@ -6,7 +6,7 @@ Whether you are in a loving relationship or hopelessly single, Friendly Flowers 
 
 ### Design
 
-
+![Design of Webpage](friendlyflowers-3.png)
 
 ### Key Features
 
