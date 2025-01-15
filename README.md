@@ -16,4 +16,12 @@ Whether you are in a loving relationship or hopelessly single, Friendly Flowers 
 - Receiver may send a message back upon receiving the flowers
 
 ### Technologies
+I will use the required technologies in the following ways:
+
+- **HTML** - Using the correct HTML structure for the application. Has 4 different views, for the login page, friend selection, bouquet selection, and one for the messaging.
+- **CSS** - Visually appealing color scheme, good, responsive design, and good utilization of whitespace.
+- **React** - Displays the application, switching between the views, display of chat log, and general use of React for routing and components.
+- **Service** - Endpoints for authentication/login, stores/retrieves messages.
+- **DB/Login** - Stores the users and message logs. Used to register and login users.
+- **WebSocket** - Responsible for broadcasting the messages between users.
 
