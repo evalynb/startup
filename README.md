@@ -6,6 +6,8 @@ Whether you are in a loving relationship or hopelessly single, Friendly Flowers 
 
 ### Design
 
+
+
 ### Key Features
 
 - Secure registration, login, and logout
