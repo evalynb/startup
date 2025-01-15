@@ -7,3 +7,13 @@ Whether you are in a loving relationship or hopelessly single, Friendly Flowers 
 ### Design
 
 ### Key Features
+
+- Secure registration, login, and logout
+- Ability to select who to send flowers to
+- Display of pre-designed hand drawn flower bouquets to choose from (text with links to images)
+- Ability to select and change which bouquet to send
+- Ability to send a link to the image of the bouquet, with an optional message
+- Receiver may send a message back upon receiving the flowers
+
+### Technologies
+
