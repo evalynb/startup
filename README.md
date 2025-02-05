@@ -27,3 +27,21 @@ I will use the required technologies in the following ways:
 - **DB/Login** - Stores the users and message logs. Used to register and login users.
 - **WebSocket** - Responsible for broadcasting the messages between users.
 
+# AWS Deliverable
+
+For this deliverable, I deployed my server and made it accesible with the following domain name: [My server link](https://startup.friendlyflowers.click).
+
+# HTML Deliverable
+
+For this deliverable, I did the following:
+
+- **HTML pages** I created 4 unique HTML pages for each of the views of my webpage
+- **HTML usage** I made proper use of HTML elements including header, footer, main, nav, img, a, input, button, and more.
+- **Links** I included links between each page and their views
+- **Text** I included text on my pages
+- **3rd Party Placeholder** The bouquet.html page has a place holder for a third party call to generate a joke
+- **Images** I have images displayed on the bouquet.html page
+- **Login placeholder** The main page has a login placeholder
+- **DB Placeholder**The chat page has a placeholder for where chat logs will be stored
+- **WebSocket Placeholder** The chat page also has a placeholder for where real time messages can be sent
+
