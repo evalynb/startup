@@ -45,3 +45,13 @@ For this deliverable, I did the following:
 - **DB Placeholder**The chat page has a placeholder for where chat logs will be stored
 - **WebSocket Placeholder** The chat page also has a placeholder for where real time messages can be sent
 
+# CSS Deliverable
+
+For this deliverable, I did the following:
+
+- **Header, footer, and main content body** - I properly used CSS to style my 4 webpage views, main.css, friends.css, bouquets.css, chat.css
+- **Navigation elements** - I properly applied CSS to my nav elements
+- **Responsive to window resizing** - I used my display: flex to make my page responsive to window resizing.
+- **Application elements** - I used more display: flex to style my elements properly.
+- **Application text content** - I set my title text to something fun for my main page, but everything else is set to the same clean font.
+- **Application images** - I included my bouquet images and made sure they were properly sized.
